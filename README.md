@@ -13,8 +13,11 @@ STL files for a SENSI-PI Generic Tile
   I have used No 2 self tapping fixing screws for attaching the lid and PCB. (5mm & 3 mm in length, starting with
   3mm wherever possible!)
   
-  Also I have only printed these files on my ROBOX 3D printer, other printers may print sizes slightly differently depending on nozzle diameter etc. 
+  The PCB I have used is a double sided 4cm * 6cm board, which is easily found on ebay. (See photos on the
+  www.sensistuff.com website.)
   
-  If you have problems let me know and we can discuss the best way to resolve them and hopefully improve this repository as a consequence.
+  I have only printed these files on my ROBOX 3D printer, other printers may print sizes slightly differently depending on nozzle diameter etc. 
   
-  The files have been designed using the OPENScad design package and I have made them as parametric as possible. I need to tidy them a bit before any release ...... but if you really need them please ask!
+  If you have problems let me know and we can discuss the best way to resolve them and hopefully improve this repository too.
+  
+  The files have been designed using the OPENScad design package. I have made them as parametric as possible. I do need to tidy them a bit before any release ...... but if you really need them please ask!
